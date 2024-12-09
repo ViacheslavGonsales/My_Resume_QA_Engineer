@@ -27,32 +27,32 @@ email: kolynik07@gmail.com
   
    > Создание чек-листов: [ссылка на работу](https://docs.google.com/spreadsheets/d/1jNm1qzXq3l6b0-Keosz7S25tCSAOfrpw/edit?usp=sharing&ouid=106035096334246694534&rtpof=true&sd=true)
   > 
-  >  Создание тест-кейсов: [ссылка на работу]()
+  >  Создание тест-кейсов: [ссылка на работу](https://docs.google.com/spreadsheets/d/1O2e9NAg8Ed6uK8zKrAzBMtc2bvq8_XIM/edit?usp=sharing&ouid=106035096334246694534&rtpof=true&sd=true)
   > 
-  > Техники тест-дизайна: [ссылка на работу]()
+  > Техники тест-дизайна: [ссылка на работу](https://docs.google.com/spreadsheets/d/1TD_Y3xnp4wyEgooRgc081ul26pXLs4Zz/edit?usp=sharing&ouid=106035096334246694534&rtpof=true&sd=true)
   > 
-  > Виды тестирования: [ссылка на работу]()
+  > Виды тестирования: [ссылка на работу](https://docs.google.com/spreadsheets/d/1lxfNvgJbtmcvnqvU0aWTgQjltAh8koW-/edit?usp=sharing&ouid=106035096334246694534&rtpof=true&sd=true)
   > 
-  > Создание баг-репортов: [ссылка на работу]()
+  > Создание баг-репортов: [ссылка на работу](https://docs.google.com/spreadsheets/d/1hQBb-5Cex39UvENbIDrDQzGif6ZsuQ_Z/edit?usp=sharing&ouid=106035096334246694534&rtpof=true&sd=true)
 * Тест-дизайн и тест-аналитика: [ссылка на сертификаты](https://drive.google.com/drive/folders/1Eid5Abt3-Cxcm-Xu67TcI-WLLCphOYw0?usp=sharing)
 
-  > Работа с требованиями
+  > Работа с требованиями: [ссылка на работу](https://drive.google.com/drive/folders/14w4-2zc8a34AWOdBHewMS4V3bnt0Ys14?usp=sharing)
   >
-  > Классы эквивалентности
+  > Классы эквивалентности: [ссылка на работу](https://docs.google.com/spreadsheets/d/1FEL8A1yI8Ankx-3ZctVj7BAWsNuKpZmy/edit?usp=sharing&ouid=106035096334246694534&rtpof=true&sd=true)
   >
-  > Попарное тестирование(pairwise)
+  > Попарное тестирование(pairwise): [ссылка на работу](https://docs.google.com/spreadsheets/d/1IaR_MzOY0w_q_vwuwZUv5rQlbgCyNEylmONN4GWzBOI/edit?usp=sharing)
   >
-  > Граничные значения и доменный анализ
+  > Граничные значения и доменный анализ: [ссылка на работу](https://docs.google.com/spreadsheets/d/1lRE-prYwbJPS22ubivMV73W5VvC5qxuTMNGohCTUh14/edit?usp=sharing)
   >
-  >  Диаграммы и таблицы переходов состояний
+  >  Диаграммы и таблицы переходов состояний: [ссылка на работу](https://docs.google.com/spreadsheets/d/1lRE-prYwbJPS22ubivMV73W5VvC5qxuTMNGohCTUh14/edit?usp=sharing)
   >
-  > Таблицы принятия решений
+  > Таблицы принятия решений: [ссылка на работу](https://docs.google.com/spreadsheets/d/1yoOEAko1p-rVAX-HhL-X6nctCYvvy4d3/edit?usp=sharing&ouid=106035096334246694534&rtpof=true&sd=true)
   >
-  > Тестирование по пользовательским сценариям
+  > Тестирование по пользовательским сценариям: [ссылка на работу](https://docs.google.com/spreadsheets/d/18Y8SceAolpNqr-gcm9Sm1WiDSNAbtt_-x3RlKbThrgQ/edit?usp=sharing)
   >
-  > Создание чек-листов по документации
+  > Создание чек-листов по документации: [ссылка на работу]()
   >
-  > Составление тест-кейсов. Позитивное и негативное тестирование   
+  > Составление тест-кейсов. Позитивное и негативное тестирование: [ссылка на работу]()   
 * Тестирование API: [ссылка на сертификаты](https://drive.google.com/drive/folders/1L2YLAVpGELaBiZO246Umm9PTywxsmw9z?usp=sharing)
 
   > Клиент-серверная архитектура
