@@ -18,8 +18,8 @@ email: kolynik07@gmail.com
 
    [Ссылка на диплом](https://drive.google.com/drive/folders/1BragvIjBEe71LA6cba8SzV17jmLeVMHZ?usp=sharing)
 
-   ## Навыки:
-   
-   
+## Навыки:
+
+
 
 
