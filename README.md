@@ -5,10 +5,12 @@
 email: kolynik07@gmail.com
 
 ## Образование:
-1) Севастопольский национальный технический университет (2006 - 2011гг)
+1) Севастопольский национальный технический университет (2006г. - 2011г.)
    Специальность: "Компьютерные систмы и сети" с присвоением квалификации инженера-системотехника
    
-   [Мой диплом](https://drive.google.com/drive/folders/16CJYFUHMl4fpQxXCqjZR0rEOs7n8eZFJ?usp=sharing)
-3) 
+   [Ссылка на диплом](https://drive.google.com/drive/folders/16CJYFUHMl4fpQxXCqjZR0rEOs7n8eZFJ?usp=sharing)
+3) Онлайн-школа "GeekBrains" (Январь 2024г. - Октябрь 2024г.)
+
+   [Ссылка на диплом](https://drive.google.com/drive/folders/1BragvIjBEe71LA6cba8SzV17jmLeVMHZ?usp=sharing)
 
 Резюме: Вячеслав - QA Engineer (Тестировщик) 
