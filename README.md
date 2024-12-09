@@ -12,11 +12,14 @@ email: kolynik07@gmail.com
    [Ссылка на диплом](https://drive.google.com/drive/folders/16CJYFUHMl4fpQxXCqjZR0rEOs7n8eZFJ?usp=sharing)
 3) Онлайн-школа "GeekBrains" (Январь 2024г. - Октябрь 2024г.)
 
+   <https://gb.ru/>
+
    Специальность: "Ручной тестировщик. Специалист" с правом на ведение профессиональной деятельности в сфере связи, информационных и коммуникационных технологий
 
    [Ссылка на диплом](https://drive.google.com/drive/folders/1BragvIjBEe71LA6cba8SzV17jmLeVMHZ?usp=sharing)
 
    ## Навыки:
+   
    
 
 
