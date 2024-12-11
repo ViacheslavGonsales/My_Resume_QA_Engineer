@@ -50,16 +50,16 @@ email: kolynik07@gmail.com
   >
   > Тестирование по пользовательским сценариям: [ссылка на работу](https://docs.google.com/spreadsheets/d/18Y8SceAolpNqr-gcm9Sm1WiDSNAbtt_-x3RlKbThrgQ/edit?usp=sharing)
   >
-  > Создание чек-листов по документации: [ссылка на работу]()
+  > Создание чек-листов по документации в TMS Qase.io: [ссылка на работу](https://drive.google.com/drive/folders/1GXlQFEmzKHuxEh9todibPtF7gia_-ILe?usp=sharing)
   >
-  > Составление тест-кейсов. Позитивное и негативное тестирование: [ссылка на работу]()   
+  > Составление тест-кейсов  в TMS Qase.io. Позитивное и негативное тестирование: [ссылка на работу](https://drive.google.com/drive/folders/13uje9sqmCnQJQYjYr8UuEq6w0taOK-2C?usp=sharing)   
 * Тестирование API: [ссылка на сертификаты](https://drive.google.com/drive/folders/1L2YLAVpGELaBiZO246Umm9PTywxsmw9z?usp=sharing)
 
-  > Клиент-серверная архитектура
+  > Клиент-серверная архитектура: [ссылка на работу](https://docs.google.com/spreadsheets/d/1KoXfb00I6tP0IVaZ9A6c0UMAp3j1F1tY3K_WxpBHZL0/edit?usp=sharing)
   >
-  > REST API
+  > REST API: [ссылка на работу](https://drive.google.com/drive/folders/1JIBfBTb7BfjDrZ7mTY4kXBQMUXpZF7vF?usp=sharing)
   >
-  >  SOAP API
+  >  SOAP API: [ссылка на работу](https://drive.google.com/drive/folders/1jTYUw6crdusWAdP0qvb6VxClf84oX11-?usp=sharing)
 * Тестирование веб-приложений: [ссылка на сертификаты](https://drive.google.com/file/d/1cxSSvyOpoVBwsdtX0-YiN_AKutvzlJ0n/view?usp=sharing)
 
 ### 3. Онлайн-школа "Brainy" (Октябрь 2024 - по настоящее время)
