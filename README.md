@@ -70,7 +70,7 @@ email: kolynik07@gmail.com
 <https://brainy.run/>
 * Cпециализации:
   - Автоматизация веб-тестирования с Robot Framework:
-    > Создание и настройка проекта в VSCode
+    > Создание и настройка проекта в VSCode: [ссылка на работу](https://drive.google.com/drive/folders/1kxWos86_dbiD-sqdu9Ej0YqPUgd2APp4?usp=sharing)
     >
     > Клики и ожидания: 
     >
