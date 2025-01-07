@@ -76,7 +76,7 @@ email: kolynik07@gmail.com
     >
     > Работа с переменными: [ссылка на работу](https://drive.google.com/drive/folders/13qKfv4zt668zH0_nmzfNuqqJOYJgf5Lo?usp=sharing)
     >
-    > Предусловия и Постусловия
+    > Предусловия и Постусловия: [ссылка на работу](https://drive.google.com/drive/folders/1gdBA0IhPTRdi3c1I9CYRZKn9f-6mV2Q4?usp=sharing)
     >
     > Архитктура и ресурсные файлы: [ссылка на работу](https://drive.google.com/drive/folders/1B1lA5i5LlyBSqJdt-_TvqpjvQA3Mwpeu?usp=sharing)
     >
