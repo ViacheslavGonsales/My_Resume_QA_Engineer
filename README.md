@@ -72,9 +72,9 @@ email: kolynik07@gmail.com
   - Автоматизация веб-тестирования с Robot Framework:
     > Создание и настройка проекта в VSCode: [ссылка на работу](https://drive.google.com/drive/folders/1kxWos86_dbiD-sqdu9Ej0YqPUgd2APp4?usp=sharing)
     >
-    > Клики и ожидания: 
+    > Клики и ожидания: [ссылка на работу](https://drive.google.com/drive/folders/13qKfv4zt668zH0_nmzfNuqqJOYJgf5Lo?usp=sharing)
     >
-    > Работа с переменными
+    > Работа с переменными: [ссылка на работу](https://drive.google.com/drive/folders/13qKfv4zt668zH0_nmzfNuqqJOYJgf5Lo?usp=sharing)
     >
     > Предусловия и Постусловия
     >
