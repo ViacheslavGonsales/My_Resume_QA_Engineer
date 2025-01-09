@@ -82,7 +82,7 @@ email: kolynik07@gmail.com
     >
     > Форматирование кода с Robocop: [ссылка на работу](https://drive.google.com/drive/folders/184k5ukFq6KrI_yVQRVZJhYph4Jd_J8xB?usp=sharing)
     >
-    > Ввод данных: [ссылка на работу]()
+    > Ввод данных: [ссылка на работу](https://drive.google.com/drive/folders/1kIx5qPUxTJi4KVu5_B0_eTtrsaoGpe6Z?usp=sharing)
   - Автоматизация мобильного тестирования с Robot Framework
  
 
