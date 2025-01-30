@@ -86,6 +86,12 @@ email: kolynik07@gmail.com
     >
     > Data Driven тестирование: [ссылка на работу](https://drive.google.com/drive/folders/1m9oatuhnANAhKrmolmnzkcOjMLKdUSWN?usp=sharing)
     >
+    > Переменные окружения: [ссылка на работу](https://drive.google.com/drive/folders/1QYigaW2Vb9Yy06TBjTRYa_xn3FdBsXMG?usp=sharing)
+    >
+    > Условные операторы IF, ELSE IF, ELSE: [ссылка на работу](https://drive.google.com/drive/folders/1YIsAzOD6GQ_vQIfOCvUAIr1T9QAg-3S4?usp=sharing)
+    > 
+    > 
+    >
     > 
   - Автоматизация мобильного тестирования с Robot Framework
  
