@@ -90,6 +90,10 @@ email: kolynik07@gmail.com
     >
     > Условные операторы IF, ELSE IF, ELSE: [ссылка на работу](https://drive.google.com/drive/folders/1YIsAzOD6GQ_vQIfOCvUAIr1T9QAg-3S4?usp=sharing)
     > 
+    > Цикл FOR: [ссылка на работу](https://drive.google.com/drive/folders/1eqXv6SZ5MitBpsiS9grbkNimBn4y4gMU?usp=sharing)
+    >
+    > 
+    >
     > 
     >
     > 
