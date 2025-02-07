@@ -92,7 +92,7 @@ email: kolynik07@gmail.com
     > 
     > Цикл FOR: [ссылка на работу](https://drive.google.com/drive/folders/1eqXv6SZ5MitBpsiS9grbkNimBn4y4gMU?usp=sharing)
     >
-    > 
+    > Цикл WHILE: [ссылка на работу](https://drive.google.com/drive/folders/1HcHxFrCCliobPPFs2X7P5AZPlVhlgMbE?usp=sharing)
     >
     > 
     >
