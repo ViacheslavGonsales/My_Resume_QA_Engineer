@@ -82,6 +82,8 @@ email: kolynik07@gmail.com
     >
     > Форматирование кода с Robocop: [ссылка на работу](https://drive.google.com/drive/folders/184k5ukFq6KrI_yVQRVZJhYph4Jd_J8xB?usp=sharing)
     >
+    > Проект №1: Самостоятельная работа по пройденному материалу: [ссылка на работу](https://drive.google.com/drive/folders/1B5i6-MwHUgz6Y3Jx0IMuj7g3OONPZg-h?usp=sharing)
+    >
     > Ввод данных: [ссылка на работу](https://drive.google.com/drive/folders/1kIx5qPUxTJi4KVu5_B0_eTtrsaoGpe6Z?usp=sharing)
     >
     > Data Driven тестирование: [ссылка на работу](https://drive.google.com/drive/folders/1m9oatuhnANAhKrmolmnzkcOjMLKdUSWN?usp=sharing)
@@ -94,7 +96,7 @@ email: kolynik07@gmail.com
     >
     > Цикл WHILE: [ссылка на работу](https://drive.google.com/drive/folders/1HcHxFrCCliobPPFs2X7P5AZPlVhlgMbE?usp=sharing)
     >
-    > 
+    > Проект №2: Самостоятельная работа по пройденному материалу: [ссылка на работу]()
     >
     > 
   - Автоматизация мобильного тестирования с Robot Framework
