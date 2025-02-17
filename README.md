@@ -96,7 +96,7 @@ email: kolynik07@gmail.com
     >
     > Цикл WHILE: [ссылка на работу](https://drive.google.com/drive/folders/1HcHxFrCCliobPPFs2X7P5AZPlVhlgMbE?usp=sharing)
     >
-    > Проект №2: Самостоятельная работа по пройденному материалу: [ссылка на работу]()
+    > Проект №2: Самостоятельная работа по пройденному материалу: [ссылка на работу](https://drive.google.com/drive/folders/1AjWaQjnbUEoMpDa8OmmdP-Ji6mOFKcEt?usp=sharing)
     >
     > 
   - Автоматизация мобильного тестирования с Robot Framework
