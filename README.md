@@ -98,7 +98,8 @@ email: kolynik07@gmail.com
     >
     > Проект №2: Самостоятельная работа по пройденному материалу: [ссылка на работу](https://drive.google.com/drive/folders/1AjWaQjnbUEoMpDa8OmmdP-Ji6mOFKcEt?usp=sharing)
     >
-    > 
+    Сертификат о завершении курса: [ссылка](https://drive.google.com/drive/folders/17RAk5DNxCFP5zs3sfZUPjHmnDQ7CSmNx?usp=sharing)
+  
   - Автоматизация мобильного тестирования с Robot Framework
 
 ## Ключевые навыки:
